@@ -23,6 +23,7 @@
                         <li><a class="show-3 templatemo_page3" href="#">Services</a></li>
                         <li><a class="show-4 templatemo_page4" href="#">About Us</a></li>
                         <li><a class="show-5 templatemo_page5" href="#">Kontak</a></li>
+                        <li><a class="" href="/login">Login</a></li>
                     </ul>
                 </div> <!-- /.col-md-12 -->
             </div> <!-- /.row -->
