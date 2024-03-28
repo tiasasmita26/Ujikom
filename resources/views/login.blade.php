@@ -21,15 +21,10 @@
                 <i class='bx bxs-lock'></i>
             </div>
 
-            <div class="remember-forgot">
-                <label><input type="checkbox">Remember me</label>
-                <a href="#">Forgot Password ?</a>
-            </div>
-
             <button type="submit" class="btn">Login</button>
 
             <div class="register-link">
-                <p>Tidak mempunyai akun ? <a href="#">Register</a></p>
+                <p>Tidak mempunyai akun ? <a href="/register">Register</a></p>
             </div>
         </form>
     </div>
