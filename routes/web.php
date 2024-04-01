@@ -30,3 +30,11 @@ Route::get('/admin', function () {
     return view('admin.main');
 });
 
+Route::get('/Dashboard', function () {
+    return view('admin.Dashboard');
+});
+
+Route::get('/DataFoto', function () {
+    return view('admin.DataFoto');
+});
+
