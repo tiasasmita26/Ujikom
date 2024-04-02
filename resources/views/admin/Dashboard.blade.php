@@ -1,4 +1,4 @@
 @extends('admin.main')
-<section>
-    
-</section>
+@section('content')
+<h1>Selamat Datang</h1>
+@endsection
