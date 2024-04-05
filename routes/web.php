@@ -38,3 +38,7 @@ Route::get('/DataFoto', function () {
     return view('admin.DataFoto');
 });
 
+Route::get('/TambahDataFoto', function () {
+    return view('admin.TambahDataFoto');
+});
+

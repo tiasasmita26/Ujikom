@@ -2,7 +2,7 @@
 @section('content')
 <div class="card">
     <div class="card-header">
-        <a href="#" class="btn btn-icon icon-left btn-warning"><i class="far fa-edit"></i> Tambah</a>
+        <a href="/TambahDataFoto" class="btn btn-icon icon-left btn-warning"><i class="far fa-edit"></i> Tambah</a>
     </div>
     <div class="card-body">
       <table class="table">
